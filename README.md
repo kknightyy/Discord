@@ -1,0 +1,2 @@
+# Discord
+How Discord works.
