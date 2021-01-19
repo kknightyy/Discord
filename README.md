@@ -1,2 +1,2 @@
 # Discord
-How Discord works.
+A collection of Discord exploits
